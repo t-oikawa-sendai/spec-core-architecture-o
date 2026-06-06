@@ -63,7 +63,7 @@ AIに仕様から実装まで一任するだけでは、品質と安全の担保
 本リポジトリ内の配置は、教材として各AIの設定例を整理するための配置である。実務プロジェクトへ適用する際は、本リポジトリ全体をそのままコピーせず、対象プロジェクトへ必要な設定だけを選択し、所定位置へ配置すること。`2_implementation_cursor/` 配下は、Cursor関連ファイルの教材用保管場所である。
 
 ```text
-/Users/takashioikawa/Dev/spec-core-architecture-o/ (リポジトリルート)
+/Users/takashioikawa/Dev/scao-workspace/spec-core-architecture-o/ (リポジトリルート)
 ├── README.md                          ← 【本ファイル】フレームワーク全体の教科書
 ├── COMMON_POLICY.md                   ← 全AI共通の正本（結論先行・事実と推測の分離・秘密情報秘匿など）
 │
