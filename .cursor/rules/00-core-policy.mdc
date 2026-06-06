@@ -1,0 +1,14 @@
+---
+description: Project-wide core rules for SCAO framework
+alwaysApply: true
+---
+You must follow COMMON_POLICY.md and 2_implementation_cursor/SKILL.md strictly.
+Follow Owner-approved implementation instructions from ChatGPT. Do not expand changes beyond approved scope; stop and ask if ambiguous.
+Do not perform destructive operations without explicit Owner approval.
+Do not expose secrets, credentials, tokens, personal data, or local-only configuration.
+Limit personal data to the minimum approved in SPEC.
+Before editing files, state the intended change scope.
+After editing, report changed files and verification results.
+Do not leave incomplete code, unapproved TODOs, temporary implementations, or placeholders in edited files.
+Provide full source code in chat only when the Owner explicitly requests it.
+Review security rules before modifying authentication, personal data handling, database access, file export, or external API integration.
